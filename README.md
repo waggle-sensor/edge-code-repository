@@ -1,6 +1,6 @@
 # Edge Code Repository (ECR)
 
-#### Lead(s): [Seongha Park](mailto:seongha.park@anl.gov) (App Certification) and [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)(ECR Software Infrastructure)
+#### Lead(s): Seongha Park (App Certification) and Wolfgang Gerlach (ECR Software Infrastructure)
 
 ### Overview:
 The ECR manages and hosts bundled and packaged components that can be deployed and run on a Waggle node. Components can be source code (e.g. a Python script), compiled binaries (e.g. GPU-optimized code) and trained models. Most ECR Bundles have three parts:  
